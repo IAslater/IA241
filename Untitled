@@ -1,24 +1,4 @@
-Lecture 6
-
-Loop
-
-remember the indent 
-
-for num in [1,2,3]: 
- if num >1:
-  print(num)
-  
-  This will print out each individual item
-  
-  or you can do 
-  
-  print (num +1)
-  
-  
-  for word his is lec6' .split():
-    print(word)
-    for c in word:
-    print(c)
-    For i in range(5):
-       print (1)
-    
+Lec 8
+functions: rules for taking o or more inputs 
+this just makes everything easy
+def my_funcution:
