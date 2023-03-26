@@ -5,7 +5,9 @@ def count_word(input_string):
 #3.2
 demo_string = "hello world"
 print(count_word(demo_string))
+
 #3.3
+
 def find_min(num_list):
     
     min_item = num_list[0]
